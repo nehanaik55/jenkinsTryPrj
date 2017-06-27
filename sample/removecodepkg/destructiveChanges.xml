@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>codepkg</fullName>
+	 <!--<types>
+        <members>AddMemberCont</members>
+		<members>AddSocietyExt</members>
+		<members>ManageDues</members>
+		<members>TestAddMemberCont</members>
+		<members>TestAddSociety</members>
+		<members>TestManageDues</members>
+		<members>TestViewSocietyCont</members>
+		<members>viewObjects</members>
+		<members>viewSocietyCont</members>
+        <name>ApexClass</name>
+    </types>
+	<types>
+     	<members>Manage_Dues</members>
+		<members>View_Societies</members>
+		<members>Add_New_Society</members>
+		<members>ListOfObjects</members>
+		<members>AddMemberPopup</members>
+		<members>Map</members>
+        <name>ApexPage</name>
+    </types> -->
+	<types>
+        <members>calculateMembers</members>
+        <name>ApexTrigger</name>
+    </types>
+	<!--<types>
+       <members>Add New Society</members>
+	 <members>Add New Society</members>
+	 <members>Manage Dues</members>
+	 <members>View Societies</members>
+        <name>CustomTab</name>
+    </types>
+	<types>
+        <members>Dues__c</members>
+        <name>CustomObject</name>
+    </types> -->
+    <version>40.0</version>
+</Package>
