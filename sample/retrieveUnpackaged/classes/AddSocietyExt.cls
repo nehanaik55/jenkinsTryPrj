@@ -1,4 +1,5 @@
 public with sharing class AddSocietyExt {
+//27-6-2017 comment1
 	Public ApexPages.StandardController con;
     public Boolean showBlock{get;set;}
     Public Integer currentYear;
